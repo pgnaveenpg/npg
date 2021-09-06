@@ -1,2 +1,2 @@
 #! /bin/bash
-echo "Wazzp jenkinsss brooo?"
+echo "Wazzp jenkinsss bro all good ..??"
