@@ -1,2 +1,2 @@
 #! /bin/bash
-echo "Wazzp jenkinsss.llll.?"
+echo "Wazzp jenkinsss bro.?"
