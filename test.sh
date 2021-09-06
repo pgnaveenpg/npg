@@ -1,2 +1,2 @@
 #! /bin/bash
-echo "Wazzp jenkinsss broooooooo"
+echo "Wazzp jenkinsss brooo"
